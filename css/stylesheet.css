@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.header{
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    inline-size: 40 px;
+}
+
+.footer{
+    height: 80%;
+    width: 100%;
+    background: black;
+}
+
+.about{
+    display: block;
+    height: 400px;
+    width: 40%;
+    border-color: cadetblue;
+    
+}
+.category{
+    display: block;
+    height: 400px;
+    width: 40%;
+    border-color: cadetblue;
+    float: left;
+    
+
+}
+.quick{
+    display: block;
+    height: 400px;
+    width: 40%;
+    border-color: cadetblue;
+    float: left;
+    
+
+}
+.contact{
+    display: block;
+    height: 400px;
+    width: 40%;
+    border-color: cadetblue;
+    float: left;
+    
+
+}
